@@ -2,7 +2,7 @@
 
 This is an application meant to replicate the functionality of the enigma machine. On top of this this application will offer some very slight differences possible because this is a digital version.
 
-This project will eventually include a full UI for encrypting and decrypting messages, swapping out rotors, swapping ot reflectors, swapping out plugs etc etc.
+This project will eventually include a full UI for encrypting and decrypting messages, swapping out rotors, swapping out reflectors, swapping out plugs etc etc.
 
 At this moment however the application is pure back-end.
 
